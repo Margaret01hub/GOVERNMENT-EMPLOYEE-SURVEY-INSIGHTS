@@ -2,7 +2,7 @@
 ## Background and Problem Statement
 Pierce County WA conducted an employee engagement survey to evaluate employee satisfaction. This project identifies important areas of agreement and disagreement, satisfaction across department and roles, and provides insights to improve employees’ satisfaction. The respondents of the survey include, directors, managers, supervisors, and other employees.
 
-##Dataset Used
+## Dataset Used
 -<a href="https://github.com/Margaret01hub/GOVERNMENT-EMPLOYEE-SURVEY-INSIGHTS/blob/main/Employee%20Survey%20Analysis.xlsx">Dataset</a>
 
 ## Tool for Data Exploration, Analysis and Visualization
@@ -15,7 +15,7 @@ PowerBi
 1) Total Number of Response - 15,000       2) Average Response Rate- 2.99         3) Total Positive Response – 11,000                 4) Total Negative Response- 3,221             5) Total Neutral Response – 394
 
 
-##Dashboard
+## Dashboard
 =<a href="https://github.com/Margaret01hub/GOVERNMENT-EMPLOYEE-SURVEY-INSIGHTS/blob/main/GOVERNMENT%20EMPLOYEE%20SURVEY%20INSIGHT.png">Dashboard</a>
 
 ## Insights
